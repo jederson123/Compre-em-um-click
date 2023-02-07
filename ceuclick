@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Compre em um click</title>
+    <style>
+      body {
+        background-color: #051c33;
+        font-family: Arial, sans-serif;
+        color: #fff;
+        text-align: center;
+      }
+      h1 {
+        font-size: 48px;
+        margin-top: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Bem-vindo ao Compre em um click</h1>
+  </body>
+</html>
